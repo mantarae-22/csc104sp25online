@@ -1,0 +1,28 @@
+/* global page styles */
+body{
+    background-color: aliceblue;
+    font-family: Georgia, Times, serif;
+    color: rgb(54, 51, 51);
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: indigo;
+    padding: 20px;
+}
+
+h2{
+    color: navy;
+    padding: 10px;
+}
+
+p{
+    padding: 0 30px;
+    text-align: justify;
+}
+
+h3{
+    padding-left: 25px;
+    color: rgb(35, 35, 136);
+}
